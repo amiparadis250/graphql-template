@@ -1,12 +1,12 @@
 {
   "name": "legacy-vault",
   "private": true,
-  "description": "The starter code for the Ami Paradis Intro to GraphQL with TypeScript course",
+  "description": "The starter code for the Ami Paradis boilerplate to GraphQL with TypeScript ",
   "version": "0.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apollographql-education/intro-typescript"
+    "url": "https://github.com/amiparadis250/graphql-template.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
