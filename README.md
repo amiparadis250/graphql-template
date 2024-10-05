@@ -1,0 +1,1 @@
+This is my graphql Backend Folder structure using Express , mongodb , Typescript and JWT 
